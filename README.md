@@ -31,3 +31,5 @@ Machine learning model for detecting fraudulent financial transactions.
 - `notebooks/` — Jupyter notebooks for each stage of the project
 - `README.md` — project overview and instructions
 - `.gitignore` — files excluded from version control
+
+Dataset removed due to GitHub size limit
