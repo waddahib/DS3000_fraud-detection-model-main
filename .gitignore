@@ -2,3 +2,4 @@ data/raw/*.csv
 data/processed/*.csv
 *.parquet
 *.pklnotebooks/financial_fraud_detection_dataset.csv
+notebooks/financial_fraud_detection_dataset.csv
