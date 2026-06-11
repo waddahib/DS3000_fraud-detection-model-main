@@ -7,17 +7,18 @@ Machine learning model for detecting fraudulent financial transactions.
 - Ethan
 - Waddah
 
-## COMPLETEED
-- Data loading and EDA
-- Data cleaning and feature decisions
-- Train/Validation/Test split
+## Completed
+
+- Data loading and exploratory data analysis
+- Data cleaning and feature selection
+- Train/validation/test split
 - Preprocessing pipeline
-  
-## TODO
 - Baseline model
-- Model training, hyperparameter tuning, evaluation
-- Best model selection and threshhold tuning
-- Final model training + test 
+- Model training and hyperparameter tuning
+- Model evaluation
+- Best model selection and threshold optimization
+- Final model training and testing
+- Final report completed
 
 ## Libraries
 - Pandas
